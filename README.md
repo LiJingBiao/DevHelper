@@ -1,5 +1,6 @@
 # DevHelper
 DevHelper 技术服务支持
+![Screenshot](screenshot.png)
 DevHelper是一款开发者工具，旨在提高工作效率
 1. 生成二维码
 2. json格式化
