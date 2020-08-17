@@ -8,5 +8,6 @@ DevHelper是一款开发者工具，旨在提高工作效率
 * 文本对比
 * 进制转换
 
-# 联系作者：694292399@qq.com
+# 联系作者：
+[213312](itms-apps://apps.apple.com/cn/app/id1490832034)
 
